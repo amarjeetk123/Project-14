@@ -15,10 +15,11 @@ body{
     height: 100vh;
     width: 100vw;
     position: relative;
-    background-color: #f5f5dc;
+    /* background-color: #f5f5dc; */
 }
 .a{
-    height: 740px;
+   
+    height: 824px;
     width: 500px;
 }
 .logo{
